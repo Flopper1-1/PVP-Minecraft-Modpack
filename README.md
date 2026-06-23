@@ -5,7 +5,10 @@ A modpack adding guns and capture the flag functionality to Minecraft so you can
 You can really play this modpack however you want, however here are my ideas and what I recommend playing
 
 # Bedwars
-Players have a set amount of time to build a protective base around their bed/spawnpoint and gear up. At the end of the timer the players all fight eachother in the aim of destroying their bed. Once a bed is destroyed the player who owned that bed can place it back down in order to save themselves from elimination. If at any point their spawnpoint is destroyed/obstructed they lose.
+Players have a set amount of time to build a protective base around their bed/spawnpoint and gear up. At the end of the timer the players all fight eachother in the aim of destroying their bed. Once a bed is destroyed the player who owned that bed can place it back down in order to save themselves from elimination. If at any point their spawnpoint is destroyed/obstructed they lose. I recommend having a command block which pumps constant resistance II in order to balance guns, or you could use extra hearts.
+
+# Boat Snipers
+Players are equipped with snipers and must navigate through blue ice with ice. Players must kill eachother while on the boat. When a person gets to 20 deaths they are disqualified. The last person to lose wins.
 
 # List of mods
 # PVP

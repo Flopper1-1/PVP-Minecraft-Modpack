@@ -1,6 +1,12 @@
 # PVP-Minecraft-Modpack
 A modpack adding guns and capture the flag functionality to Minecraft so you can make fun PVP minigames with your friends.
 
+# How to play
+You can really play this modpack however you want, however here are my ideas and what I recommend playing
+
+# Bedwars
+Players have a set amount of time to build a protective base around their bed/spawnpoint and gear up. At the end of the timer the players all fight eachother in the aim of destroying their bed. Once a bed is destroyed the player who owned that bed can place it back down in order to save themselves from elimination. If at any point their spawnpoint is destroyed/obstructed they lose.
+
 # List of mods
 # PVP
 

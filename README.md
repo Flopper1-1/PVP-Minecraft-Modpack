@@ -1,6 +1,7 @@
 # PVP-Minecraft-Modpack
 A modpack adding guns and capture the flag functionality to Minecraft so you can make fun PVP minigames with your friends.
-List of mods
+
+##List of mods
 # PVP
 
 [Zone Conquest](https://modrinth.com/mod/DGBSETzF)
